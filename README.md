@@ -22,10 +22,3 @@ Generate a caption from an image and convert it into audio.
 2. BLIP generates caption
 3. MMS converts caption → speech
 4. Audio is returned
-
-
-If you want, I can also add:
-✅ badges
-✅ screenshots
-✅ ONNX / HuggingFace Space deployment guide
-Just tell me!
